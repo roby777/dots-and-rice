@@ -1,2 +1,2 @@
 # dots-and-rice
-Dotfiles and rice repo
+Dotfiles and rice repo for my Hyprland setup.
